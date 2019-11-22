@@ -1,4 +1,5 @@
 #include<stdio.h>
+#define INFINITY 9999
 struct node
 {
     unsigned dist[20];
